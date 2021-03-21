@@ -7,11 +7,11 @@ const assets = [
     './images/html.jpg',
     './images/css.png',
     './images/js.png',
-    './images/favicon/apple-touch-icon.png',
-    './images/favicon/favicon-32x32.png',
-    './images/favicon/favicon-16x16.png',
-    '/images/favicon/android-chrome-192x192.png',
-    '/images/favicon/android-chrome-512x512.png',
+    './images/favicons/apple-touch-icon.png',
+    './images/favicons/favicon-32x32.png',
+    './images/favicons/favicon-16x16.png',
+    '/images/favicons/android-chrome-192x192.png',
+    '/images/favicons/android-chrome-512x512.png',
 
     'https://fonts.googleapis.com/css?family=Lato:300,400,700',
 ];
