@@ -1,12 +1,12 @@
-const staticCacheName = 'site-static-v1';
+const staticCacheName = 'gratedcloud';
 const assets = [
     './',
     './index.html',
     './js/index.js',
     './css/style.css',
     './images/html.jpg',
-    './images/css.jpg',
-    './images/js.jpg',
+    './images/css.png',
+    './images/js.png',
     './images/favicon/apple-touch-icon.png',
     './images/favicon/favicon-32x32.png',
     './images/favicon/favicon-32x32.png',
